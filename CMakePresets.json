@@ -61,7 +61,7 @@
         {
             "name": "copilot-release",
             "configurePreset": "x64-release",
-            "configuration": "RelWithDebInfo",
+            "configuration": "Release",
             "targets": [
                 "install"
             ]
