@@ -12,7 +12,6 @@
                 "rhs": "Windows"
             },
             "cacheVariables": {
-                "BUILD_STATIC": "ON",
                 "BUILD_DEMO" : "ON",
                 "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
             }
